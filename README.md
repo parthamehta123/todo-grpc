@@ -1,3 +1,4 @@
+AGENT_TEST
 # gRPC Todo Example (Go)
 
 A simple gRPC service for managing todos, built in Go with Protocol Buffers.  
